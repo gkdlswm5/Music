@@ -35,14 +35,18 @@
 - Adobe Illustrator
 - Spotify Web API
 
+## **Members:**
+
+- Andrew Kim
+- Darren Huang
+- Richard Antolin
+- Sulada Sudjai
+- Tristan Pacba
+- William Flores
+
 ### **Questions:**
 
 - support@project-smood.com
-
-### **Link:**
-
-- [GitHub] -https://github.com/tpacba/project-smood
-- [GitHub] -https://github.com/tpacba/project-smood-backend
 
 ### **Screenshots:**
 
