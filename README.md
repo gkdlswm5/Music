@@ -37,7 +37,6 @@
 
 ## **Members:**
 
-- Andrew Kim
 - Darren Huang
 - Richard Antolin
 - Sulada Sudjai
