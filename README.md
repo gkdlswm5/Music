@@ -35,14 +35,6 @@
 - Adobe Illustrator
 - Spotify Web API
 
-## **Members:**
-
-- Darren Huang
-- Richard Antolin
-- Sulada Sudjai
-- Tristan Pacba
-- William Flores
-
 ### **Questions:**
 
 - support@project-smood.com
